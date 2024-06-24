@@ -1,1 +1,2 @@
 https://www.statology.org/sklearn-classification-report/
+https://www.techtarget.com/searchbusinessanalytics/definition/association-rules-in-data-mining#:~:text=Association%20rules%20are%20if-then,-occurrences%2C%20in%20a%20database.
